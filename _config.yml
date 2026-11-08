@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Welcome to my boring blog...
+title: Welcome to my blog...
 email: sawander28@outlook.com
-description: My name is Sascha. I'm a develeoper of Enterprise Applications and Services and this is yet another boring blog about development and research.
+description: My name is Sascha.\nI'm a develeoper of Enterprise Applications and Services.
 baseurl: "/"
 url: "http://127.0.0.1:4000"
 #url: "https://sawander28.github.io"
