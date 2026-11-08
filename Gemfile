@@ -16,7 +16,14 @@ gem "jekyll-theme-minimal"
 gem "github-pages", "~> 232", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed", "~> 0.17.0"
+  gem "jekyll-sitemap", "~> 1.4.0"
+  gem "jekyll-gist", "~> 1.5.0"
+  gem "jekyll-default-layout", "~> 0.1.5"
+  gem "jekyll-github-metadata", "~> 2.16.1"
+  gem "jekyll-paginate", "~> 1.1.0"
+  gem "jekyll-readme-index", "~> 0.3.0"
+  gem "jekyll-relative-links", "~> 0.6.1"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
