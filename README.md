@@ -1,4 +1,4 @@
-## Build a static jekyll blog
+## Building a static Jekyll blog
 
 * required dependency version
 * ruby -v 3.3.13 x86_64-linux-gnu
